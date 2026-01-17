@@ -21,5 +21,5 @@ A video editing and 3D modeling project creating a 2-minute promotional trailer 
 - [Watch Trailer](https://www.dropbox.com/scl/fi/3xx4ls95b1sbbt5p7u61m/Final-Cut-ITE-331-Project.mp4?rlkey=mhvvdn8pqma6hyg29tjswbl6m&st=a0jne8ed&dl=0)
 - [Story Board](https://www.dropbox.com/scl/fi/t7d94262dh33sdk6crcrp/ARCANE-TRAILER.pdf?rlkey=b9ok1x5arzbe38fwrfsidn710&st=wklrsr3o&dl=0)
 
-##Contributors
+## Contributors
 Daniel Jungmo Yang, Zlata Kochetkova, Vadim Bushtruk, Ei Thinzar Naing, Ei May Zon
